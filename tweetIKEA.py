@@ -2,10 +2,10 @@ import tweepy
 import csv
 
 
-consumer_key="0o565RnNoqXxedwPfopM827S0"
-consumer_secret="Y7rPGwytdeP3q1jkzoWnD4zqSdUIBQI6ccgzNXvHlEqILk0Bdu"
-access_token="901029362866192384-ftIJjx9erPpdzZI8ra1UMYlhe2VpDkt"
-access_token_secret ="MNDmQ18fmgi0UVtCXqMrEAamRgGpCyFHsbqE4BSyZVkBy"
+consumer_key="xxx"
+consumer_secret="xxx"
+access_token="xxx"
+access_token_secret ="xxx"
 
 
 
